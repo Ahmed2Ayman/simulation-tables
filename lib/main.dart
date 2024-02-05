@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // import 'dart:io';
 // import 'package:flutter/material.dart';
 // import 'package:open_file/open_file.dart';
@@ -66,6 +67,8 @@
 //     }
 //   }
 // }
+=======
+>>>>>>> 67fc063 (first commit)
 
 import 'package:simulation_tables/pages/home_page.dart';
 import 'package:flutter/material.dart';
